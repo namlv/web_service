@@ -1,0 +1,207 @@
+# Translation of Express in English (UK)
+# This file is distributed under the same license as the Express package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-23 04:55:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Express\n"
+
+#. Theme Name of the plugin/theme
+msgid "Express"
+msgstr "Express"
+
+#. Description of the plugin/theme
+msgid "Express is a Free Responsive Magazine WordPress Theme with quiet simply design, your readers would have the friendly feeling which helps them to focus on “reading” content than “looking” your blog."
+msgstr "Express is a Free Responsive Magazine WordPress Theme with a quiet, simple design. Your readers will get a friendly feeling which helps them to focus on “reading” content rather than “looking” at your blog."
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:9
+msgid "Archives"
+msgstr "Archives"
+
+#: searchform.php:6
+msgid "<i class=\"fa fa-search\"></i>"
+msgstr "<i class=\"fa fa-search\"></i>"
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "Search for:"
+
+#: inc/customizer.php:27
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer.php:40
+msgid "Global Font Family"
+msgstr "Global Font Family"
+
+#: inc/customizer.php:63
+msgid "Heading Font Family"
+msgstr "Heading Font Family"
+
+#: inc/customizer.php:21
+msgid "Site Favicon"
+msgstr "Site Favicon"
+
+#: inc/customizer.php:10
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: header.php:32 searchform.php:3
+msgid "Search"
+msgstr "Search"
+
+#: header.php:30
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:18
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: functions.php:95
+msgid "<span class=\"categories-links\"> in %1$s</span>"
+msgstr "<span class=\"categories-links\"> in %1$s</span>"
+
+#: functions.php:82
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+
+#: functions.php:57
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:13
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:7
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:7
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:6
+msgid "Free Responsive Magazine WordPress Theme"
+msgstr "Free Responsive Magazine WordPress Theme"
+
+#: footer.php:6
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:5
+msgid "Copyright &copy; %1s by <a href=\"%2s\">%3s</a>"
+msgstr "Copyright &copy; %1s by <a href=\"%2s\">%3s</a>"
+
+#: content.php:48
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content.php:48
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content.php:48
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content.php:42 single.php:33
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: content.php:38 functions.php:93 single.php:29
+msgid ", "
+msgstr ", "
+
+#: content.php:28 page.php:17 single.php:21
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content.php:21 content.php:25
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:17 comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:16 comments.php:28
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:15 comments.php:27
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:10
+msgid "% comments"
+msgstr "% Comments"
+
+#: comments.php:10
+msgid "1 comment"
+msgstr "1 Comment"
+
+#: comments.php:10
+msgid "0 comments"
+msgstr "0 comments"
+
+#: 404.php:32
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:17
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:9
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "http://www.yoarts.com/express-free-responsive-magazine-wordpress-theme/"
+msgstr "http://www.yoarts.com/express-free-responsive-magazine-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "YoArts"
+msgstr "YoArts"
+
+#. Author URI of the plugin/theme
+msgid "http://www.yoarts.com"
+msgstr "http://www.yoarts.com"
